@@ -1,0 +1,27 @@
+
+La idea creo que es tomar temperaturas de, por ejemplo, 1850 a 1970, y predecir temperaturas de 1971 a 1990, por ejemplo, y ver si matchean con lo dado en las bases de datos. Así con cualquier intervalo de tiempo que querramos.
+Podemos fijar algunos arbitraiamente (intervalos), tipo por motivación de cuando hubo mas población, en qué momento hubo guerras, o relacionado con la actualidad, o curiosidad historica...
+
+
+
+
+Experimentos globales:
+======================
+
+·Experimento canónico de ver a qué temperatura está tendiendo el mundo, con todos los tiempos, hasta los tiempos mas actuales: de 1700 (o cuando haya mas info, tipo 1850) a 2005, y de ahi predecimos de 2006 a 2012.
+
+·Experimento de nuevos polos articos: agarramos algún paper que diga "el polo norte va a estar en tal o cual lugar, y el sur etc, y donde ahora esta el sur va a hacer calor, etc". Tomamos esas regiones, y vemos si efectivamente está haciendo mas frio ahi, y mas calor haya (como dice el paper)...
+
+
+
+Experimentos regionales (ciudades, países):
+===========================================
+
+·Experimentos canónicos tomando, por ejemplo, una latitud, viendo ciudades en esa latitud, y prediciendo qué temperatura hace o hará en ciudades de la misma latitud. Lo mismo se puede hacer con longitud, humedad, altura al mar, distancia al mar, etc...
+	Para estos experimentos podemos elegír latino américa para latitud, asia para longitud, ciudades de Australia y Rusia para humedad, y así. Unir lo regional con estas cosas canónicas.
+
+·Ver si podemos predecir la temperatura de una ciudad que suele ser seca sólo con temperaturas de ciudades humedas, y vicebersa.
+
+·Análisis poblacional: ver qué relación hay, si hay alguna, entre el crecimiento o decrecimiento de la población de una ciudad con respecto a su temperatura (y con esto podemos vender humo, tipo en Japon crece la población y tecnología, mientras que en la India crece la población pero no tanto la tecnología, creo).
+
+·Análisis historico: tomar temperaturas en Europa antes de la WW1, en la WW1, entre la WW1 y 2, en la WW2, y después de la WW2, y ver si podemos inferir algo acerca de las temperaturas relacionado con las guerras.
