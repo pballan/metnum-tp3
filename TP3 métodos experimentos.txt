@@ -12,6 +12,8 @@ Experimentos globales:
 
 ·Experimento de nuevos polos articos: agarramos algún paper que diga "el polo norte va a estar en tal o cual lugar, y el sur etc, y donde ahora esta el sur va a hacer calor, etc". Tomamos esas regiones, y vemos si efectivamente está haciendo mas frio ahi, y mas calor haya (como dice el paper)...
 
+ ·Vemos como cambia la temperatura en el polo norte y el sur, y vemos como cambian las alturas al mar de, por ejemplo, varias zonas de la costa de América al mar pacifico. Vamos a ver varias zonas porque quizá aumenta la altura debido a que un río empezo a mandar mas agua al mar en una zona dada, o un río dejo de andar.
+
 
 
 Experimentos regionales (ciudades, países):
