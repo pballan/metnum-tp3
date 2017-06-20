@@ -1,0 +1,6 @@
+
+
+
+Data de temperaturas del polo sur:
+http://cdiac.esd.ornl.gov/ftp/ndp032/
+http://cdiac.esd.ornl.gov/ftp/ndp032/orig_tmean.dat
