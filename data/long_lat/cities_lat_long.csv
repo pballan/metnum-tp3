@@ -1,4 +1,4 @@
-city,city_ascii,lat,lng,pop,country,iso2,iso3,province
+city,city_ascii,lat,lng,pop,Country,iso2,iso3,province
 Qal eh-ye Now,Qal eh-ye,34.98300013,63.13329964,2997,Afghanistan,AF,AFG,Badghis
 Chaghcharan,Chaghcharan,34.5167011,65.25000063,15000,Afghanistan,AF,AFG,Ghor
 Lashkar Gah,Lashkar Gah,31.58299802,64.35999955,201546,Afghanistan,AF,AFG,Hilmand
@@ -7193,54 +7193,54 @@ Lang Son,Lang Son,21.8459971,106.7570016,148000,Vietnam,VN,VNM,Lạng Sơn
 Son La,Son La,21.32800214,103.9100047,19054,Vietnam,VN,VNM,Son La
 Tuyen Quang,Tuyen Quang,21.8179981,105.2109996,36430,Vietnam,VN,VNM,Tuyên Quang
 Yen Bai,Yen Bai,21.70500304,104.8750026,96540,Vietnam,VN,VNM,Yên Bái
-Hai Duong,Hai Duong,20.94200108,106.3310046,58030,Vietnam,VN,VNM,Hải Dương 
+Hai Duong,Hai Duong,20.94200108,106.3310046,58030,Vietnam,VN,VNM,Hải Dương
 Thai Binh,Thai Binh,20.45030412,106.3330296,210000,Vietnam,VN,VNM,Thái Bình
 Tuy Hoa,Tuy Hoa,13.08200402,109.3159987,69596,Vietnam,VN,VNM,Phú Yên
 Thu Dau Mot,Thu Dau Mot,10.96907408,106.6527455,244277,Vietnam,VN,VNM,Bình Duong
-Dong Ha,Dong Ha,16.8499981,107.1333007,17662,Vietnam,VN,VNM,Quảng Trị 
-Cao Lanh,Cao Lanh,10.46700013,105.6359976,149837,Vietnam,VN,VNM,Đồng Tháp 
-Truc Giang,Truc Giang,10.234998,106.3749966,59442,Vietnam,VN,VNM,Bến Tre 
+Dong Ha,Dong Ha,16.8499981,107.1333007,17662,Vietnam,VN,VNM,Quảng Trị
+Cao Lanh,Cao Lanh,10.46700013,105.6359976,149837,Vietnam,VN,VNM,Đồng Tháp
+Truc Giang,Truc Giang,10.234998,106.3749966,59442,Vietnam,VN,VNM,Bến Tre
 Tra Vinh,Tra Vinh,9.934002087,106.3340017,131360,Vietnam,VN,VNM,Trà Vinh
 Vinh Long,Vinh Long,10.256004,105.9640026,103314,Vietnam,VN,VNM,Vinh Long
 Cao Bang,Cao Bang,22.66399806,106.2680046,41112,Vietnam,VN,VNM,Cao Bằng
-Hong Gai,Hong Gai,20.9604118,107.1000154,160490.5,Vietnam,VN,VNM,Quảng Ninh 
-Cam Pha,Cam Pha,21.04043276,107.320002,75925.5,Vietnam,VN,VNM,Quảng Ninh 
+Hong Gai,Hong Gai,20.9604118,107.1000154,160490.5,Vietnam,VN,VNM,Quảng Ninh
+Cam Pha,Cam Pha,21.04043276,107.320002,75925.5,Vietnam,VN,VNM,Quảng Ninh
 Lao Chi,Lao Chi,22.50135134,103.9659948,51854,Vietnam,VN,VNM,Lào Cai
 Hoa Binh,Hoa Binh,20.81370241,105.3383142,102381,Vietnam,VN,VNM,Hòa Bình
 Son Tay,Son Tay,21.13817873,105.5050223,115091.5,Vietnam,VN,VNM,Hà Tây
 Ninh Binh,Ninh Binh,20.25430503,105.9750195,130517,Vietnam,VN,VNM,Ninh Bình
-Viet Tri,Viet Tri,21.33041506,105.4299882,305144,Vietnam,VN,VNM,Phú Thọ 
-Bac Giang,Bac Giang,21.26700808,106.2000187,53728,Vietnam,VN,VNM,Bắc Giang 
+Viet Tri,Viet Tri,21.33041506,105.4299882,305144,Vietnam,VN,VNM,Phú Thọ
+Bac Giang,Bac Giang,21.26700808,106.2000187,53728,Vietnam,VN,VNM,Bắc Giang
 Ha Tinh,Ha Tinh,18.33377626,105.900037,165396,Vietnam,VN,VNM,Ha Tinh
 Buon Me Thuot,Buon Me Thuot,12.66704205,108.0499833,248460,Vietnam,VN,VNM,Dak Lak
-Da Lat,Da Lat,11.93042035,108.4199865,193698,Vietnam,VN,VNM,Lâm Đồng 
-Phan Rang,Phan Rang,11.56703168,108.9833113,135646.5,Vietnam,VN,VNM,Ninh Thuận 
-Hon Quan,Hon Quan,11.65038576,106.6000459,40279,Vietnam,VN,VNM,Bình Phước 
+Da Lat,Da Lat,11.93042035,108.4199865,193698,Vietnam,VN,VNM,Lâm Đồng
+Phan Rang,Phan Rang,11.56703168,108.9833113,135646.5,Vietnam,VN,VNM,Ninh Thuận
+Hon Quan,Hon Quan,11.65038576,106.6000459,40279,Vietnam,VN,VNM,Bình Phước
 Kon Tum,Kon Tum,14.38375897,107.9833207,76449,Vietnam,VN,VNM,Kon Tum
-Quang Ngai,Quang Ngai,15.15043052,108.8299873,184625.5,Vietnam,VN,VNM,Quảng Ngãi  
-Quang Tri,Quang Tri,16.7503587,107.2000093,72722,Vietnam,VN,VNM,Quảng Trị 
-Vung Tau,Vung Tau,10.35537437,107.0849776,229225,Vietnam,VN,VNM,Bà Rịa–Vũng Tàu 
-Phan Thiet,Phan Thiet,10.933737,108.1000577,248749,Vietnam,VN,VNM,Bình Thuận 
+Quang Ngai,Quang Ngai,15.15043052,108.8299873,184625.5,Vietnam,VN,VNM,Quảng Ngãi 
+Quang Tri,Quang Tri,16.7503587,107.2000093,72722,Vietnam,VN,VNM,Quảng Trị
+Vung Tau,Vung Tau,10.35537437,107.0849776,229225,Vietnam,VN,VNM,Bà Rịa–Vũng Tàu
+Phan Thiet,Phan Thiet,10.933737,108.1000577,248749,Vietnam,VN,VNM,Bình Thuận
 Long Xuyen,Long Xuyen,10.38038576,105.4200146,254076.5,Vietnam,VN,VNM,An Giang
 Chau Doc,Chau Doc,10.70039207,105.1166739,70239,Vietnam,VN,VNM,An Giang
 Rach Gia,Rach Gia,10.01539512,105.0913525,252830,Vietnam,VN,VNM,Kiên Giang
 Tan An,Tan An,10.53373557,106.416698,101149.5,Vietnam,VN,VNM,Long An
-My Tho,My Tho,10.35041343,106.3500354,123226.5,Vietnam,VN,VNM,Tiền Giang 
-Bac Lieu,Bac Lieu,9.280375385,105.7199963,187500,Vietnam,VN,VNM,Bạc Liêu 
+My Tho,My Tho,10.35041343,106.3500354,123226.5,Vietnam,VN,VNM,Tiền Giang
+Bac Lieu,Bac Lieu,9.280375385,105.7199963,187500,Vietnam,VN,VNM,Bạc Liêu
 Ca Mau,Ca Mau,9.177358418,105.1500052,280765.5,Vietnam,VN,VNM,Cà Mau
 Soc Trang,Soc Trang,9.603740661,105.9800321,236961,Vietnam,VN,VNM,Sóc Trang
 Ha Giang,Ha Giang,22.83365664,104.9833488,35526,Vietnam,VN,VNM,Hà Giang
 Thai Nguyen,Thai Nguyen,21.59995933,105.8300154,415000,Vietnam,VN,VNM,Thái Nguyên
 Thanh Hoa,Thanh Hoa,19.8200163,105.7999914,197551,Vietnam,VN,VNM,Thanh Hóa
-Nam Dinh,Nam Dinh,20.42003135,106.2000187,243186,Vietnam,VN,VNM,Nam Định 
-Vinh,Vinh,18.6999813,105.6799987,514426.5,Vietnam,VN,VNM,Nghệ An 
-Dong Hoi,Dong Hoi,17.48333722,106.6000459,110152.5,Vietnam,VN,VNM,Quảng Bình 
+Nam Dinh,Nam Dinh,20.42003135,106.2000187,243186,Vietnam,VN,VNM,Nam Định
+Vinh,Vinh,18.6999813,105.6799987,514426.5,Vietnam,VN,VNM,Nghệ An
+Dong Hoi,Dong Hoi,17.48333722,106.6000459,110152.5,Vietnam,VN,VNM,Quảng Bình
 Play Ku,Play Ku,13.98329246,108.0000122,128562.5,Vietnam,VN,VNM,Gia Lai
 Nha Trang,Nha Trang,12.25003908,109.1700183,347498.5,Vietnam,VN,VNM,Khánh Hòa
 Cam Ranh,Cam Ranh,11.90202415,109.2206612,85327,Vietnam,VN,VNM,Khánh Hòa
-Qui Nhon,Qui Nhon,13.77997154,109.1800435,543095,Vietnam,VN,VNM,Bình Định 
-Hue,Hue,16.46998822,107.5800378,645000,Vietnam,VN,VNM,Thừa Thiên–Huế 
-Bien Hoa,Bien Hoa,10.97001385,106.8300577,652646,Vietnam,VN,VNM,Đồng Nai 
+Qui Nhon,Qui Nhon,13.77997154,109.1800435,543095,Vietnam,VN,VNM,Bình Định
+Hue,Hue,16.46998822,107.5800378,645000,Vietnam,VN,VNM,Thừa Thiên–Huế
+Bien Hoa,Bien Hoa,10.97001385,106.8300577,652646,Vietnam,VN,VNM,Đồng Nai
 Can Tho,Can Tho,10.04999249,105.7700191,690299,Vietnam,VN,VNM,Can Tho
 Haiphong,Haiphong,20.83000633,106.6800927,1285847.5,Vietnam,VN,VNM,Quảng Ninh
 Da Nang,Da Nang,16.06003908,108.2499711,943534.5,Vietnam,VN,VNM,Da Nang
