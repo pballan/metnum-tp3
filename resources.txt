@@ -7,3 +7,9 @@ http://cdiac.esd.ornl.gov/ftp/ndp032/orig_tmean.dat
 
 Global sea level:
 http://data.okfn.org/data/core/sea-level-rise
+
+Población:
+http://data.okfn.org/data/core/population
+
+Datos de Longitud y Latitud de Ciudades
+https://github.com/MBoustani/Georeverse/blob/master/georeverse.py
