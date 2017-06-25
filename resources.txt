@@ -7,3 +7,22 @@ http://cdiac.esd.ornl.gov/ftp/ndp032/orig_tmean.dat
 
 Global sea level:
 http://data.okfn.org/data/core/sea-level-rise
+
+Población:
+de paises
+http://data.okfn.org/data/core/population
+
+creicimiento poblacional de países https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependencies_by_total_fertility_rate
+países con crecimiento poblacional negativo https://www.thoughtco.com/negative-population-growth-1435471
+
+de tokyo
+https://stats.oecd.org/Index.aspx?DataSetCode=CITIES#
+de sofia
+http://www.nsi.bg/en/content/6593/population-demography-migration-and-projections
+
+temperaturas de tokyo 2000-2010
+http://www.data.jma.go.jp/obd/stats/data/en/smp/index.html
+
+
+Datos de Longitud y Latitud de Ciudades
+https://github.com/MBoustani/Georeverse/blob/master/georeverse.py
